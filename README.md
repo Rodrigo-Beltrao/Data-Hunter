@@ -19,3 +19,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigo-beltrao&show_icons=true&locale=en&layout=compact" alt="rodrigo-beltrao" /></p>
 
+https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife&label=N&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge
