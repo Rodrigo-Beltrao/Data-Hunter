@@ -5,7 +5,7 @@
 
 - 💬 Me pergunte sobre **SQL, Python, Google BigQuery, Apache Kafka**
 
-- 📫 Você me acha em **rodrigo425@protonmail.com**
+- 📫 Você me acha em **rodrigo.beltrao@al.infnet.edu.br**
 
 - 📄 Meu perfil profissional está em [https://www.linkedin.com/in/rodrigo-beltr%C3%A3o-951733247/](https://www.linkedin.com/in/rodrigo-beltr%C3%A3o-951733247/)
 
