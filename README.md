@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente eu aprendendo **machine learning e modelos não-supervisionados**
 
-- 💬 Me pergunte sobre **SQL, Python, Google BigQuery, Apache Kafka**
+- 💬 Me pergunte sobre **SQL, Python, Google BigQuery, Apache Kafka, COBOL**
 
 - 📫 Você me acha em **rodrigo.beltrao@al.infnet.edu.br**
 
