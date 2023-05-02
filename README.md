@@ -19,4 +19,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigo-beltrao&show_icons=true&locale=en&layout=compact" alt="rodrigo-beltrao" /></p>
 
-
+![Visitor Count](https://profile-counter.glitch.me/{Rodrigo-Beltrao}/count.svg)
