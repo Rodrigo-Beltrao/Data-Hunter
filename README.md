@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou o Rodrigo-Beltrao</h1>
 <h3 align="center">Engenheiro de dados com conhecimentos de análise e ciência de dados</h3>
 
-- 🌱 Atualmente eu aprendendo **machine learning e modelos não-supervisionados**
+- 🌱 Atualmente eu estou aprendendo **machine learning e modelos não-supervisionados**
 
 - 💬 Me pergunte sobre **SQL, Python, Google BigQuery, Apache Kafka, COBOL**
 
