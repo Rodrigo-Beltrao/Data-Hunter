@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Eu sou o Rodrigo-Beltrao</h1>
 <h3 align="center">Engenheiro de dados com conhecimentos de análise e ciência de dados</h3>
 
-- 🌱 Atualmente eu estou aprendendo **machine learning e modelos não-supervisionados**
+- 🌱 Atualmente eu estou aprendendo **Cassandra e MongoDB**
 
-- 💬 Me pergunte sobre **SQL, Python, Google BigQuery, Apache Kafka, COBOL**
+- 💬 Me pergunte sobre **SQL, Hadoop, Hive, Python, Machine Learning, Apache Spark, Google BigQuery, Apache Kafka e COBOL**
 
 - 📫 Você me acha em **rodrigo.beltrao@al.infnet.edu.br**
 
