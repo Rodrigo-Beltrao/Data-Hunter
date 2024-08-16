@@ -2,11 +2,7 @@
 ********************************************************************************************************************************************************
 <h3 align="center">Engenheiro de dados com conhecimentos de análise e ciência de dados</h3>
 
-- 🌱 Atualmente eu estou participando de **competições no Kaggle**
-
 - 💬 Me pergunte sobre **SQL, Hadoop, Hive, Python, Machine Learning, Apache Spark, Google BigQuery, Apache Kafka e COBOL**
-
-- 📫 Você me acha em **rodrigo.beltrao@al.infnet.edu.br**
 
 - 📄 Meu perfil profissional está em [https://www.linkedin.com/in/rodrigo-beltr%C3%A3o-951733247/](https://www.linkedin.com/in/rodrigo-beltr%C3%A3o-951733247/)
 ********************************************************************************************************************************************************
